@@ -1,0 +1,8 @@
+p {
+	color:magenta;
+	background:lightblue;
+	font-weight:bold;
+	font-size: 30px;
+	text-align:center;
+	 text-shadow: 5px 5px 5px #FF0000;
+}
